@@ -1,0 +1,2 @@
+export * from "/Users/zhaobo/Workspace/gaius/octopus/dashboard/internal/stylelint-config/src/index";
+export { default } from "/Users/zhaobo/Workspace/gaius/octopus/dashboard/internal/stylelint-config/src/index";
